@@ -66,7 +66,7 @@ What was achieved, future developments, commercialization plans
 
 ## Links
 
-- [Project Repository](https://github.com/cepdnaclk/{{ page.e19-3yp-smart-billing-system }}){:target="_blank"}
+- [Project Repository](https://github.com/cepdnaclk/e19-3yp-smart-billing-system )
 - [Project Page](https://cepdnaclk.github.io/{{ page.e19-3yp-smart-billing-system}}){:target="_blank"}
 - [Department of Computer Engineering](http://www.ce.pdn.ac.lk/)
 - [University of Peradeniya](https://eng.pdn.ac.lk/)
