@@ -3,20 +3,22 @@ layout: home
 permalink: index.html
 
 # Please update this with your repository name and project title
-repository-name: eYY-3yp-project-template
-title: Project Template
+repository-name: eYY-3yp-smart-billing-system
+title:  Smart Billing System for Super Market Type Stores.
 ---
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
 
-# Project Title
+# Smart Billing System for Super Market Type Stores
 
 ---
 
 ## Team
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
+-  E/19/111, Galappaththi M.D., [e19111@eng.pdn.ac.lk](mailto:name@email.com)
+-  E/19/193, Kaushalya N.V.K., [e19193@eng.pdn.ac.lk](mailto:name@email.com)
+-  E/19/310, Ranage R.D.P.R., [e19310@eng.pdn.ac.lk](mailto:name@email.com)
+-  E/19/426, Weerasinghe P.M., [e19426@eng.pdn.ac.lk](mailto:name@email.com)
+-  E/19/453, Withanaarachchi W.A.A.M.T., [e19453@eng.pdn.ac.lk](mailto:name@email.com)
 
 <!-- Image (photo/drawing of the final hardware) should be here -->
 
@@ -35,7 +37,7 @@ title: Project Template
 
 ## Introduction
 
-Description of the real world problem and solution, impact
+Welcome to the Smart Billing System project, where we're merging cutting-edge hardware and powerful software to streamline the billing process. Our platform combines a precision measuring device, barcode scanners, and a smart microcontroller to accurately identify items and calculate quantities. The software effortlessly computes the total bill and securely transmits this data to the cloud for further analysis. Users can easily create their bills using our system, revolutionizing traditional billing methods to provide a seamless, accurate, and user-friendly experience. Join us in simplifying the future of billing!
 
 
 ## Solution Architecture
@@ -64,8 +66,8 @@ What was achieved, future developments, commercialization plans
 
 ## Links
 
-- [Project Repository](https://github.com/cepdnaclk/{{ page.repository-name }}){:target="_blank"}
-- [Project Page](https://cepdnaclk.github.io/{{ page.repository-name}}){:target="_blank"}
+- [Project Repository](https://github.com/cepdnaclk/{{ page.e19-3yp-smart-billing-system }}){:target="_blank"}
+- [Project Page](https://cepdnaclk.github.io/{{ page.e19-3yp-smart-billing-system}}){:target="_blank"}
 - [Department of Computer Engineering](http://www.ce.pdn.ac.lk/)
 - [University of Peradeniya](https://eng.pdn.ac.lk/)
 
