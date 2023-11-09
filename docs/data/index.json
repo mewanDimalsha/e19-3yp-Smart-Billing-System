@@ -6,8 +6,8 @@
             "eNumber": "E/19/193"
         },
         {
-            "name": "Withanarachchi W.A.A.M",
-            "email": "E19453@eng.pdn.ac.lk",
+            "name": "Withanarachchi W.A.A.M.T",
+            "email": "e19453@eng.pdn.ac.lk",
             "eNumber": "E/19/453"
         },
         {
@@ -16,14 +16,14 @@
             "eNumber": "E/19/310"
         },
         {
-            "name": "Weerasinghe P.M.",
-            "email": "e19426@eng.pdn.ac.lk",
-            "eNumber": "E/19/426"
-        },
-        {
             "name": "Galappaththi M.D.",
             "email": "e19111@eng.pdn.ac.lk",
             "eNumber": "E/19/111"
+        }
+        {
+            "name": "Weerasinghe P.M.",
+            "email": "e19426@eng.pdn.ac.lk",
+            "eNumber": "E/19/426"
         }
     ],
     "supervisors": [
