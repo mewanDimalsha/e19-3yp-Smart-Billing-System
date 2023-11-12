@@ -34,8 +34,12 @@ Welcome to the Smart Billing System project, where we're merging cutting-edge ha
 
 
 ## Solution Architecture
+__Description__
 
-High level diagram + description
+![image](https://github.com/cepdnaclk/e19-3yp-Smart-Billing-System/assets/115542224/97f161b5-0465-4851-980a-06b874858306)
+
+
+
 
 ## Hardware and Software Designs
 
