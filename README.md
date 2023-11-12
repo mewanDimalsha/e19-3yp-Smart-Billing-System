@@ -2,7 +2,7 @@ ___
 # Smart Billing System for Super Market Type Stores
 ___
 
-# e19-3yp-smart-billing-system
+# e19-3yp-Smart-Billing-System
 
 Welcome to the future of supermarket management – the Smart Billing System GitHub page! In the fast-paced world of retail, where accuracy, efficiency, and customer satisfaction are paramount, our innovative solution is set to revolutionize the way supermarkets operate. Our system addresses common challenges faced by supermarkets, such as billing errors, inventory management, and customer experience, by integrating cutting-edge technologies and intelligent algorithms.
 
