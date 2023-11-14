@@ -31,7 +31,10 @@ Introducing the Smart Billing System, a cutting-edge solution for supermarkets d
 
 ## High level Hardware Architecture
 
-![image](https://github.com/cepdnaclk/e19-3yp-Smart-Billing-System/assets/115542224/5c2681dc-6d8c-4d8c-8110-341c79e58f6d)
+
+![image](https://github.com/cepdnaclk/e19-3yp-Smart-Billing-System/assets/115542224/c8055f49-ad80-4a11-91b8-d21c58703daf)
+
+
 
 
 
