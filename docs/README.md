@@ -75,19 +75,6 @@ Testing done on hardware and software, detailed + summarized results
 
 ## Detailed budget
 
-All items and costs
-
-| Item Description          | Quantity  | Unit Cost  | Total  |
-| ------------- |:---------:|:----------:|-------:|
-| ESP-32S ESP32 WiFi Bluetooth Dev Board   |  1        | 1950 LKR     | 1950 LKR |  
-| Load Cell Sensor 1KG   |  1        | 420 LKR     | 420 LKR |  
-| HX711 Weighing Sensor Module   |  1        | 300 LKR     | 300 LKR |  
-| ESP32 With OV2640 Camera   |  2        | 2350 LKR     | 4,700 LKR |
-| 128X64 OLED Display Module   |  1        | 930 LKR     | 930 LKR |
-|Total Expenses                                  |  |      | 8,300 LKR |
-## Conclusion
-
-
 | Item Description                      | Quantity | Unit Cost | Total   |
 | ------------------------------------- |:--------:|:---------:| -------:|
 | ESP-32S ESP32 WiFi Bluetooth Dev Board | 1        | 1950 LKR  | 1950 LKR|  
@@ -97,6 +84,8 @@ All items and costs
 | 128X64 OLED Display Module             | 1        | 930 LKR   | 930 LKR |
 | **Total Expenses**                     |          |           | **8,300 LKR** |
 
+## Conclusion
+
 
 
 What was achieved, future developments, commercialization plans
@@ -104,7 +93,7 @@ What was achieved, future developments, commercialization plans
 ## Links
 
 - [Project Repository](https://github.com/cepdnaclk/e19-3yp-smart-billing-system )
-- [Project Page](https://cepdnaclk.github.io/e19-3yp-smart-billing-system/)
+- [Project Page](https://cepdnaclk.github.io/e19-3yp-Smart-Billing-System)
 - [Department of Computer Engineering](http://www.ce.pdn.ac.lk/)
 - [University of Peradeniya](https://eng.pdn.ac.lk/)
 
