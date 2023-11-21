@@ -14,7 +14,8 @@
 -  E/19/453, Withanaarachchi W.A.A.M.T., [e19453@eng.pdn.ac.lk](mailto:name@email.com)
 
 <!-- Image (photo/drawing of the final hardware) should be here -->
-![Sample Image](./images/3D design prototype.jpeg)
+![3D design prototype](https://github.com/cepdnaclk/e19-3yp-Smart-Billing-System/assets/115540141/c428fb62-8916-47b7-92cf-c0e7b080e0e6)
+
 
 <!-- This is a sample image, to show how to add images to your page. To learn more options, please refer [this](https://projects.ce.pdn.ac.lk/docs/faq/how-to-add-an-image/) -->
 
@@ -23,11 +24,12 @@
 #### Table of Contents
 1. [Introduction](#introduction)
 2. [Solution Architecture](#solution-architecture )
-3. [Hardware & Software Designs](#hardware-and-software-designs)
-4. [Testing](#testing)
-5. [Detailed budget](#detailed-budget)
-6. [Conclusion](#conclusion)
-7. [Links](#links)
+3. [High Level Hardware Architecture](#hardware-architecture)
+4. [Hardware & Software Designs](#hardware-and-software-designs)
+5. [Testing](#testing)
+6. [Detailed budget](#detailed-budget)
+7. [Conclusion](#conclusion)
+8. [Links](#links)
 
 ## Introduction
 
@@ -38,8 +40,6 @@ Welcome to the Smart Billing System project, where we're merging cutting-edge ha
 __Description__
 ## High Level Hardware Architecture
 ![image](https://github.com/cepdnaclk/e19-3yp-Smart-Billing-System/assets/115542224/c8055f49-ad80-4a11-91b8-d21c58703daf)
-
-
 
 
 
@@ -55,10 +55,14 @@ Testing done on hardware and software, detailed + summarized results
 
 All items and costs
 
-| Item          | Quantity  | Unit Cost  | Total  |
+| Item Description          | Quantity  | Unit Cost  | Total  |
 | ------------- |:---------:|:----------:|-------:|
-| Sample item   | 5         | 10 LKR     | 50 LKR |
-
+| ESP-32S ESP32 WiFi Bluetooth Dev Board   |  1        | 1950 LKR     | 1950 LKR |  
+| Load Cell Sensor 1KG   |  1        | 420 LKR     | 420 LKR |  
+| HX711 Weighing Sensor Module   |  1        | 300 LKR     | 300 LKR |  
+| ESP32 With OV2640 Camera   |  2        | 2350 LKR     | 4,700 LKR |
+| 128X64 OLED Display Module   |  1        | 930 LKR     | 930 LKR |
+|Total Expenses                                          | 8,300 LKR |
 ## Conclusion
 
 What was achieved, future developments, commercialization plans
