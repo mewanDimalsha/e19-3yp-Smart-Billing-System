@@ -14,8 +14,7 @@
 -  E/19/453, Withanaarachchi W.A.A.M.T., [e19453@eng.pdn.ac.lk](mailto:name@email.com)
 
 <!-- Image (photo/drawing of the final hardware) should be here -->
-
-<!-- ![Sample Image](./images/3D design prototype.jpeg) -->
+![Sample Image](./images/3D design prototype.jpeg)
 
 <!-- This is a sample image, to show how to add images to your page. To learn more options, please refer [this](https://projects.ce.pdn.ac.lk/docs/faq/how-to-add-an-image/) -->
 
@@ -37,7 +36,8 @@ Welcome to the Smart Billing System project, where we're merging cutting-edge ha
 
 ## Solution Architecture
 __Description__
-
+## High Level Hardware Architecture
+![image](https://github.com/cepdnaclk/e19-3yp-Smart-Billing-System/assets/115542224/c8055f49-ad80-4a11-91b8-d21c58703daf)
 
 
 
