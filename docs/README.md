@@ -14,7 +14,7 @@
 -  E/19/453, Withanaarachchi W.A.A.M.T., [e19453@eng.pdn.ac.lk](mailto:name@email.com)
 
 <!-- Image (photo/drawing of the final hardware) should be here -->
-![3D design prototype](https://github.com/cepdnaclk/e19-3yp-Smart-Billing-System/assets/115540141/c428fb62-8916-47b7-92cf-c0e7b080e0e6)
+
 
 
 <!-- This is a sample image, to show how to add images to your page. To learn more options, please refer [this](https://projects.ce.pdn.ac.lk/docs/faq/how-to-add-an-image/) -->
@@ -57,7 +57,7 @@ __Introducing the Smart Billing System – a revolutionary solution transforming
 # Smart Billing System 
 
 Introducing the Smart Billing System, a cutting-edge solution for supermarkets designed to elevate efficiency and customer satisfaction. Features include automated barcode scanning for swift and accurate product identification, real-time inventory management with low-stock alerts, a customer feedback mechanism on digital receipts, AI-powered predictive analytics for optimizing stock levels, a weight checker for automated item weight recognition, and an AI item recognizer streamlining the billing process. Revolutionize your supermarket operations with these innovative functionalities.
-
+![3D design prototype](https://github.com/cepdnaclk/e19-3yp-Smart-Billing-System/assets/115540141/c428fb62-8916-47b7-92cf-c0e7b080e0e6)
 
 __Description__
 ## High Level Hardware Architecture
