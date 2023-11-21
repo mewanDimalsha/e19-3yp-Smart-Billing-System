@@ -35,8 +35,30 @@
 
 Welcome to the Smart Billing System project, where we're merging cutting-edge hardware and powerful software to streamline the billing process. Our platform combines a precision measuring device, barcode scanners, and a smart microcontroller to accurately identify items and calculate quantities. The software effortlessly computes the total bill and securely transmits this data to the cloud for further analysis. Users can easily create their bills using our system, revolutionizing traditional billing methods to provide a seamless, accurate, and user-friendly experience. Join us in simplifying the future of billing!
 
+## Problem
+Retail businesses, especially supermarkets, face challenges related to billing accuracy, customer 
+satisfaction, and operational efficiency. In a bustling supermarket environment, ensuring smooth 
+transactions, preventing billing errors, and optimizing customer service are crucial for business success.
+
+
+❖ Common Issues in Supermarkets:<br>
+
+  -  Billing Errors: Mistakes in billing can lead to customer dissatisfaction and financial losses for 
+the supermarket.<br>
+  - Inventory Management: Keeping track of products, managing stock levels, and preventing 
+losses due to theft or damage are ongoing challenges.<br>
+  - Customer Experience: Long queues, slow checkout processes, and inadequate customer 
+support can impact the overall shopping experience.<br>
 
 ## Solution Architecture
+
+__Introducing the Smart Billing System – a revolutionary solution transforming supermarket management by tackling challenges like billing errors, inventory management, and enhancing customer experience through innovative technologies and intelligent algorithms.__
+
+# Smart Billing System 
+
+Introducing the Smart Billing System, a cutting-edge solution for supermarkets designed to elevate efficiency and customer satisfaction. Features include automated barcode scanning for swift and accurate product identification, real-time inventory management with low-stock alerts, a customer feedback mechanism on digital receipts, AI-powered predictive analytics for optimizing stock levels, a weight checker for automated item weight recognition, and an AI item recognizer streamlining the billing process. Revolutionize your supermarket operations with these innovative functionalities.
+
+
 __Description__
 ## High Level Hardware Architecture
 ![image](https://github.com/cepdnaclk/e19-3yp-Smart-Billing-System/assets/115542224/c8055f49-ad80-4a11-91b8-d21c58703daf)
@@ -62,7 +84,7 @@ All items and costs
 | HX711 Weighing Sensor Module   |  1        | 300 LKR     | 300 LKR |  
 | ESP32 With OV2640 Camera   |  2        | 2350 LKR     | 4,700 LKR |
 | 128X64 OLED Display Module   |  1        | 930 LKR     | 930 LKR |
-|Total Expenses                                          | 8,300 LKR |
+|Total Expenses                                  |  |      | 8,300 LKR |
 ## Conclusion
 
 What was achieved, future developments, commercialization plans
