@@ -24,12 +24,11 @@
 #### Table of Contents
 1. [Introduction](#introduction)
 2. [Solution Architecture](#solution-architecture )
-3. [High Level Hardware Architecture](#hardware-architecture)
-4. [Hardware & Software Designs](#hardware-and-software-designs)
-5. [Testing](#testing)
-6. [Detailed budget](#detailed-budget)
-7. [Conclusion](#conclusion)
-8. [Links](#links)
+3. [Hardware & Software Designs](#hardware-and-software-designs)
+4. [Testing](#testing)
+5. [Detailed budget](#detailed-budget)
+6. [Conclusion](#conclusion)
+7. [Links](#links)
 
 ## Introduction
 
@@ -58,21 +57,24 @@ __Introducing the Smart Billing System – a revolutionary solution transforming
 
 Introducing the Smart Billing System, a cutting-edge solution for supermarkets designed to elevate efficiency and customer satisfaction. Features include automated barcode scanning for swift and accurate product identification, real-time inventory management with low-stock alerts, a customer feedback mechanism on digital receipts, AI-powered predictive analytics for optimizing stock levels, a weight checker for automated item weight recognition, and an AI item recognizer streamlining the billing process. Revolutionize your supermarket operations with these innovative functionalities.
 
-### 3D design Prototype
+### 3D Design Prototype
 <!--![3D design prototype](https://github.com/cepdnaclk/e19-3yp-Smart-Billing-System/assets/115540141/c428fb62-8916-47b7-92cf-c0e7b080e0e6)-->
 ![3D design prototype](https://github.com/cepdnaclk/e19-3yp-Smart-Billing-System/assets/115540141/2a9a226d-3d44-490f-8f35-1660ad12ff10)
 
 
-## High Level Hardware Architecture
-![image](https://github.com/cepdnaclk/e19-3yp-Smart-Billing-System/assets/115542224/c8055f49-ad80-4a11-91b8-d21c58703daf)
+### High-Level Hardware Architecture
+![High Level Hardware Architecture](https://github.com/cepdnaclk/e19-3yp-Smart-Billing-System/assets/115539818/7dbb5f0f-97b1-47f4-8c1f-42535b55fdd7)
 
-##  Software tect stack
-![Screenshot (420)](https://github.com/cepdnaclk/e19-3yp-Smart-Billing-System/assets/115540141/f8e17025-d23c-4c25-9e10-af32e685e01e)
-
+### High-Level Software Architecture
+![CO300-High level software Architecture (1)](https://github.com/cepdnaclk/e19-3yp-Smart-Billing-System/assets/115539818/dfba5c0b-938a-4289-9e0a-0c7a50935555)
 
 ## Hardware and Software Designs
 
-Detailed designs with many sub-sections
+###  Software tech stack
+![Screenshot (420)](https://github.com/cepdnaclk/e19-3yp-Smart-Billing-System/assets/115540141/f8e17025-d23c-4c25-9e10-af32e685e01e)
+
+###  Hardware tech stack
+
 
 ## Testing
 
