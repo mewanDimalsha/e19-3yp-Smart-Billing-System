@@ -91,6 +91,39 @@ Testing done on hardware and software, detailed + summarized results
 | 128X64 OLED Display Module             | 1        | 930 LKR   | 930 LKR |
 | **Total Expenses**                     |          |           | **8,300 LKR** |
 
+| Description                                                  | Quantity | Unit Price (LKR) | Total (LKR) |
+| ------------------------------------------------------------ |:--------:|:-----------------:| -----------:|
+| **Microcontrollers**                                        |          |                   |             |
+| ESP32 OV2640 Camera Bluetooth Wi-Fi Board                   | 2        | 2,390             | 4,780       |
+| ESP32 Development Board 2.4GHz WiFi+Bluetooth 38 Pin        | 1        | 1,990             | 1,990       |
+| ESP32 CAM Development Board OV2640 Module                   | 1        | 660               | 660         |
+| **Total**                                                    |          |                   | **7,430**   |
+| **Display & Sensors**                                       |          |                   |             |
+| 2.42 inch 128×64 OLED Display SSD1309 12864 7 Pin SPI/IIC I2C Serial Interface | 1        | 9,390             | 9,390       |
+| 1KG Mini Scale Electronic Load Cell Weighing Sensor         | 1        | 590               | 590         |
+| HX711 weighing sensor 24 AD module                          | 1        | 295               | 295         |
+| **Total**                                                    |          |                   | **10,275**  |
+| **Circuit Boards & Cables**                                  |          |                   |             |
+| Breadboard 830 Tie Point 16.5×5.5×0.85 cm                   | 2        | 385               | 770         |
+| Male Pin Header Breakable strip 2.54mm 1X40                 | 3        | 40                | 120         |
+| PCB Circuit Board DIY Universal Prototype Dot Board         | 1        | 65                | 65          |
+| Stripboard Veroboard prototype print Circuit Board          | 1        | 115               | 115         |
+| Circuit Wire 10/0.5mm 1 Meter                                | 5        | 25                | 125         |
+| Female to Female Jumper Wire 20CM 40PCS                     | 1        | 190               | 190         |
+| Male To Female 10cm Jumper Wire Dupont Cable 40pcs 2.54mm   | 1        | 170               | 170         |
+| Male to Male Jumper Wire 20cm 40PCS                         | 1        | 195               | 195         |
+| **Total**                                                    |          |                   | **1,750**   |
+| **Power Supply**                                             |          |                   |             |
+| 5V 2.5A Power Adaptor 3Pin AC/DC                            | 1        | 1,290             | 1,290       |
+| DC Jack Connectors Male 5.5mm x 2.1mm                       | 1        | 65                | 65          |
+| 45cm Alligator Clip to Male DC Power Plug Connector Adapter Wire DC 5.5×2.1mm 25CM Crocodile Clips | 1 | 75 | 75 |
+| **Total**                                                    |          |                   | **1,430**   |
+| **Housing**                                                  |          |                   |             |
+| Manufacturing Cost                                           | 1        | 10,000            | 10,000      |
+| **Total**                                                    |          |                   | **10,000**  |
+| **TOTAL EXPENSES (LKR)**                                    |          |                   | **30,885**  |
+
+
 ## Conclusion
 
 
