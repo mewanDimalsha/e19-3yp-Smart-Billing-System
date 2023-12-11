@@ -82,14 +82,7 @@ Testing done on hardware and software, detailed + summarized results
 
 ## Detailed budget
 
-| Item Description                      | Quantity | Unit Cost | Total   |
-| ------------------------------------- |:--------:|:---------:| -------:|
-| ESP-32S ESP32 WiFi Bluetooth Dev Board | 1        | 1950 LKR  | 1950 LKR|  
-| Load Cell Sensor 1KG                   | 1        | 420 LKR   | 420 LKR |
-| HX711 Weighing Sensor Module           | 1        | 300 LKR   | 300 LKR |
-| ESP32 With OV2640 Camera               | 2        | 2350 LKR  | 4,700 LKR |
-| 128X64 OLED Display Module             | 1        | 930 LKR   | 930 LKR |
-| **Total Expenses**                     |          |           | **8,300 LKR** |
+
 
 | Description                                                  | Quantity | Unit Price (LKR) | Total (LKR) |
 | ------------------------------------------------------------ |:--------:|:-----------------:| -----------:|
