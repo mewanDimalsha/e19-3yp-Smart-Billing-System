@@ -98,7 +98,7 @@ Testing done on hardware and software, detailed + summarized results
 | ESP32 Development Board 2.4GHz WiFi+Bluetooth 38 Pin        | 1        | 1,990             | 1,990       |
 | ESP32 CAM Development Board OV2640 Module                   | 1        | 660               | 660         |
 | **Total**                                                    |          |                   | **7,430**   |
-| **Display & Sensors**                                       |          |                   |             |
+| **Display & Sensors**                                                                                    |
 | 2.42 inch 128×64 OLED Display SSD1309 12864 7 Pin SPI/IIC I2C Serial Interface | 1        | 9,390             | 9,390       |
 | 1KG Mini Scale Electronic Load Cell Weighing Sensor         | 1        | 590               | 590         |
 | HX711 weighing sensor 24 AD module                          | 1        | 295               | 295         |
