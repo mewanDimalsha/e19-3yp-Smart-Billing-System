@@ -1,0 +1,130 @@
+
+.header-bar {
+    background-color: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    width: 100%;
+    text-align: left;
+  }
+  .header-bar h2 {
+    margin: 0;
+  }
+  .thin-text {
+    font-weight: 300;
+  }
+  .footer-bar {
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    width: 100%;
+  }
+
+
+
+.form {
+    margin: auto;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    max-width: 450px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+  }
+  
+  h2 {
+    text-align: center;
+    color: #333; 
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+   
+  }
+  
+  label {
+    margin-bottom: 8px;
+    text-align: left;
+    color: #555; 
+  }
+  
+  input {
+    padding: 10px; 
+    width: 400px;
+    border: 1px solid #ccc;
+    border-radius: 12px;
+
+
+    
+  }
+  
+  button {
+    background-color: #030303;
+    color: #fff;
+    padding: 12px;
+    border: none;
+    width: 395px;
+    border-radius: 12px;
+    text-align: center;
+    cursor: pointer;
+    transition: background-color 0.3s ease; 
+  }
+  
+  button:hover {
+    background-color: #0a0a0a;
+  }
+  
+  p {
+    margin-top: 16px;
+    text-align: center;
+    color: #777;
+  }
+  
+ 
+  p a {
+    color: #007bff;
+    text-decoration: none; 
+    font-weight: bold; 
+}
+  
+  p a:hover {
+    text-decoration: underline;
+  }
+  .input-with-icon {
+    position: relative;
+  }
+  
+  .input-with-icon {
+    position: relative;
+  }
+  
+  .input-with-icon input {
+    padding-left: 30px;
+    padding-bottom: px;
+    padding-top: 5px; 
+  }
+  
+  .input-with-icon .icon {
+    position: absolute;
+    left: 10px; 
+    top: 50%;
+    transform: translateY(-50%);
+    color: #ccc;
+  }
+
+
+  .remember-me {
+    display: flex;
+    align-items: center;
+    justify-content: center; /* Center the content horizontally */
+    margin-top: 16px; /* Add some top margin for spacing */
+  }
+  
+  .remember-me label {
+    margin-left: 8px; /* Add left margin to the label for spacing */
+    color: #555; /* Adjusted label color for better contrast */
+  }
+  
