@@ -1,13 +1,23 @@
-const express = require("express");
+import express from "express";
+import { PORT } from "./config/app.js";
+
+import connection from "./config/database.js";
+// Gives us access to variables set in the .env file via `process.env.VARIABLE_NAME` syntax
+import "dotenv/config";
+
+import userRouter from "./routes/userRoute.js";
+
 const app = express();
-const port = 3000; // Choose a port for your server
 
-// Define a route
-app.get("/", (req, res) => {
-    res.send("Hello, this is your Express server!");
-});
+// Middleware for parsing request body
+app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
 
-// Start the server
-app.listen(port, () => {
-    console.log(`Server is running on http://localhost:${port}`);
+// Middleware for handling routes
+app.use("/users", userRouter);
+
+connection.on("connected", () => {
+    app.listen(PORT, () => {
+        console.log(`app is listening on port ${PORT}`);
+    });
 });
