@@ -128,7 +128,7 @@ export async function deleteUserById(request, response) {
             });
         }
 
-        const result = await User.findByIdAndRemove(id);
+        const result = await User.findByIdAndDelete(id);
 
         if (result) {
             return response.status(404).json({

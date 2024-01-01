@@ -1,32 +1,24 @@
 import mongoose from "mongoose";
 import connection from "../config/database.js";
 
-const productSchema = mongoose.Schema(
+const itemPurchasedSchema = mongoose.Schema(
     {
-        productName: {
-            type: String,
+        billID: {
+            type: mongoose.Schema.Types.ObjectId,
+            ref: "Bill",
             required: true,
         },
         productID: {
             type: String,
             required: true,
         },
-        category: {
-            type: String,
-        },
-        description: {
-            type: String,
-        },
-        price: {
+        quantity: {
             type: Number,
             required: true,
         },
-        quantityInStock: {
+        unitPrice: {
             type: Number,
             required: true,
-        },
-        imgURL: {
-            type: String,
         },
     },
     {
@@ -34,4 +26,7 @@ const productSchema = mongoose.Schema(
     }
 );
 
-export const Product = connection.model("Product", productSchema);
+export const ItemPurchased = connection.model(
+    "ItemPurchased",
+    itemPurchasedSchema
+);

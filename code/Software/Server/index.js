@@ -6,6 +6,9 @@ import connection from "./config/database.js";
 import "dotenv/config";
 
 import userRouter from "./routes/userRoute.js";
+import productRouter from "./routes/productRoute.js";
+import billRouter from "./routes/billRoute.js";
+import itemPurchasedRoute from "./routes/itemPurchasedRoute.js"
 
 const app = express();
 
@@ -15,6 +18,9 @@ app.use(express.urlencoded({ extended: true }));
 
 // Middleware for handling routes
 app.use("/users", userRouter);
+app.use("/product", productRouter);
+app.use("/bill", billRouter);
+app.use("/itemPurchased", itemPurchasedRoute);
 
 connection.on("connected", () => {
     app.listen(PORT, () => {
