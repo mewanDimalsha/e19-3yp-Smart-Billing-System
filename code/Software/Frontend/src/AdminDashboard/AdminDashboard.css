@@ -1,3 +1,11 @@
 .icon-color {
     color:black;
   }
+.footer-bar{
+  text-align: center;
+}
+.footer-bar a {
+    text-decoration: none;
+    color: white;
+    margin: 0 10px;
+  }

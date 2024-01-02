@@ -2,7 +2,7 @@ import React from 'react'
 import 'bootstrap-icons/font/bootstrap-icons.css'
 import { Link, Outlet } from "react-router-dom"
 import { useState } from 'react';
-import './AdminDashboard.css'; // Import the CSS file for styles
+import './AdminDashboard.css'; 
 
 
 
@@ -12,10 +12,10 @@ function AdminDashboard(){
       <div className="header-bar ">
         <h2 style={{ color: 'white', textAlign: 'left' }}><b>SMART</b> <span className="thin-text">BILLING SYSTEM</span></h2>
       </div>
-      <div className={`container-fluid`} >
-        <div className="row">
-          {/* Sidebar */}
-          <div className="col-auto col-md-5 col-xl-2 px-sm-2 px-0 bg-light" >
+      <div className={`container-fluid`}  >
+        <div className="row bg-light">
+         
+          <div className="col-auto col-md-5 col-xl-2 px-sm-2 px-0 bg-white" >
             <div className="d-flex flex-column align-items-start px-3 pt-2 min-vh-100">
 
           
@@ -58,14 +58,26 @@ function AdminDashboard(){
         </div>
         <div className="col py-3 position-relative">
 
-          {/* Content area */}
-          <div className="p-3 d-flex justify-content-center " >
-            <h3 className="text-dark"  >ADMINISTRATOR MANAGEMNT</h3>
-          </div>
+        
           <Outlet />
         </div>
     </div>
 </div>
+<div className="footer-bar">
+      <h6>
+        <span className="thin-text" >
+          <a href="/privacy-policy" >
+            Privacy Policy
+          </a>
+          <a href="/terms-of-service" >
+            Terms of Service
+          </a>
+          <a href="/contact-us" >
+            Contact Us
+          </a>
+        </span>
+      </h6>
+    </div>
 
 </div>
  

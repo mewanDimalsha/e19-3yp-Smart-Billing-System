@@ -14,9 +14,8 @@ const Login = () => {
   const handleLogin = (e) => {
     e.preventDefault();
 
-    // Perform login logic here (e.g., send data to an API)
     console.log('Login submitted:', { username, password, rememberMe });
-    history.push('/dashboard');
+    //history.push('/AdminDashboard');
     
     setUsername('');
     setPassword('');
