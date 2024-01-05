@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Link } from 'react-router-dom';
+import { Link, Navigate, useNavigate } from 'react-router-dom';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faUser } from '@fortawesome/free-solid-svg-icons';
 import { faLock } from '@fortawesome/free-solid-svg-icons';
@@ -10,12 +10,13 @@ const Login = () => {
   const [username, setUsername] = useState('');
   const [password, setPassword] = useState('');
   const [rememberMe, setRememberMe] = useState(false);
+  const navigate = useNavigate();
 
   const handleLogin = (e) => {
     e.preventDefault();
 
     console.log('Login submitted:', { username, password, rememberMe });
-    //history.push('/AdminDashboard');
+    navigate('/AdminDashboard');
     
     setUsername('');
     setPassword('');
@@ -58,12 +59,15 @@ const Login = () => {
         <div>
           <button type="submit">Login</button>
         </div>
-
+        
         <div className="remember-me">
-        <label><input type="checkbox" id="reme" name="reme" />
-            Remember Me
-        </label>
-          </div>
+          <input
+            type="checkbox"
+            id="rememberMe"
+            checked={rememberMe}
+            onChange={(e) => setRememberMe(e.target.checked)}
+          />
+          <label htmlFor="rememberMe">Remember me</label></div>
 
       </form>
       <p>

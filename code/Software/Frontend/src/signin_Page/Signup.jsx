@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { useNavigate } from 'react-router-dom';
 import './signup.css';
 
 const Signup = () => {
@@ -9,6 +10,11 @@ const Signup = () => {
   const [confirmPassword, setConfirmPassword] = useState('');
   const [isEmailValid, setIsEmailValid] = useState(true);
   const [isPasswordMatch, setIsPasswordMatch] = useState(true);
+  const navigate = useNavigate();
+
+  const redirectToRoot = () => {
+    navigate('/');
+  };
 
   const handleSignUp = (e) => {
     e.preventDefault();
@@ -113,8 +119,10 @@ const Signup = () => {
           {!isPasswordMatch && <p className="error-text">Passwords do not match</p>}
         </div>
         <div>
-          <button type="submit">Sign Up</button>
+        <button type="submit" onClick={redirectToRoot}>Sign Up</button>
+
         </div>
+
       </form>
     </div>
     </div>

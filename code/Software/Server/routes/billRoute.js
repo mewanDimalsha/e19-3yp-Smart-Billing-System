@@ -6,9 +6,13 @@ import {
     saveNewBill,
     updateBill,
     deleteBillById,
+    getBillsToday
 } from "../controllers/billController.js";
 
 const router = express.Router();
+
+// Route for get bills today
+router.get("/today", getBillsToday);
 
 // Route for get all bills
 router.get("/", getAllBills);
@@ -24,5 +28,6 @@ router.put("/:id", updateBill);
 
 // Route for delete bill by id
 router.delete("/:id", deleteBillById);
+
 
 export default router;
